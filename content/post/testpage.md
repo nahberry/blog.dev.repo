@@ -24,4 +24,4 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-### testing blog 
+### testing blog resources
