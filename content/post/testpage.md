@@ -6,14 +6,14 @@ date: 2021-03-18T11:30:03+00:00
 tags: ["htb, ctf, hacking"]
 author: "Nate Hess"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: ""
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 searchHidden: true
 cover:
@@ -24,4 +24,4 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-### Testing out the blog functions through markup. 
+### testing
