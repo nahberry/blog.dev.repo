@@ -22,10 +22,17 @@ cover:
 
 ---
 
-[Awesome Recon Tools](assets/images/recontools.png)
+[Awesome Recon Tools](https://github.com/nahberry/blog.dev.repo/blob/main/resources/Images/recontools.PNG)
 
-## Awesome Recon Tools  
+### Awesome Recon Tools  
+> A compiled list of great reconnaissance and footprinting tools.  
 
-[MMAP](assets/images/mmap.png)
+[MMAP](https://github.com/nahberry/blog.dev.repo/blob/main/resources/Images/mmap.PNG)
 
-## mmap
+### mmap
+> An easily editable quick menu script for Nmap.
+
+[Subatomic Syntax](https://github.com/nahberry/blog.dev.repo/blob/main/resources/Images/subatomic.png)
+
+### Subatomic Syntax
+> An Atom syntax theme tailored to look modern but be retro at heart. Looks great on any display! 
