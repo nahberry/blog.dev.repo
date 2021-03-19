@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Some of my code"
+description: "Some of my code and other fun stuff"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false
@@ -22,17 +22,34 @@ cover:
 
 ---
 
-[Awesome Recon Tools](https://github.com/nahberry/blog.dev.repo/blob/main/resources/Images/recontools.PNG)
+[![recontools.png](https://i.postimg.cc/DZTFSYfZ/recontools.png)](https://github.com/nahberry/awesome-recon-tools)
 
 ### Awesome Recon Tools  
 > A compiled list of great reconnaissance and footprinting tools.  
+> Check it out on **[GitHub!](https://github.com/nahberry/awesome-recon-tools)**
 
-[MMAP](https://github.com/nahberry/blog.dev.repo/blob/main/resources/Images/mmap.PNG)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+[![mmap.png](https://i.postimg.cc/xdKVVyGS/mmap.png)](https://github.com/nahberry/mmap)
 
 ### mmap
-> An easily editable quick menu script for Nmap.
+> An easily editable quick menu script for Nmap.  
+> Check it out on **[GitHub!](https://github.com/nahberry/mmap)**
 
-[Subatomic Syntax](https://github.com/nahberry/blog.dev.repo/blob/main/resources/Images/subatomic.png)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+[![subatomic.png](https://i.postimg.cc/BbnrFrrq/subatomic.png)](https://github.com/nahberry/subatomic-syntax)
 
 ### Subatomic Syntax
-> An Atom syntax theme tailored to look modern but be retro at heart. Looks great on any display! 
+> An Atom syntax theme tailored to look modern but be retro at heart. Looks great on any display!
+> Check it out on **[GitHub!](https://github.com/nahberry/subatomic-syntax)**
