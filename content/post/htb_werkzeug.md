@@ -15,13 +15,13 @@ description: "A completely unnecessary hack."
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false
-searchHidden: true
+searchHidden: false
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
+    image: "https://raw.githubusercontent.com/nahberry/blog.dev.repo/main/resources/Images/htblogo-yellow.jpg" # image path/url
+    alt: "header" # alt text
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    relative: true # when using page bundles set this to true
+    hidden: false # only hide on current single page
 
 ---
 
