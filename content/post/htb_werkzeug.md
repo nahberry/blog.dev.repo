@@ -25,6 +25,7 @@ cover:
 
 ---
 
+### Hack The Box
 ### Messing with the Werkzeug Vulnerability in ScriptKiddie
 
 > As stated in the description, this is a very unnecessary hack.
@@ -109,7 +110,7 @@ Upload your file and head back to your listener!
 Python comes with a great module called Pseudo-terminal Utilities.
 We can use this to our advantaged to spawn a bash shell and interact with the machine.
 
-`python3 -c "import pty;pty.pawn('/bin/bash')"`  
+`python3 -c "import pty;pty.spawn('/bin/bash')"`  
 
 If nothing happens at first try just hitting enter or waiting a minute...it is Python...  
 
