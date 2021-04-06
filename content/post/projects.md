@@ -36,12 +36,12 @@ cover:
 &nbsp;
 &nbsp;
 
-[![calabar-logo.png](https://github.com/nahberry/calabar-toolkit/blob/main/resources/logo/calabar-logo.PNG)]
+[![calabar-logo.png](https://i.postimg.cc/4xKKrg9v/calabar-logo.png)](https://github.com/nahberry/calabar-toolkit)
 
 ### Calabar Toolkit
-> Information gathering toolkit written in Python
-> - This is in it's beginning stages
-> Check it out on **[GitHub!](https://github.com/nahberry/calabar-toolkit)
+> Information gathering toolkit written in Python  
+> This is in it's beginning stages  
+> Check it out on **[GitHub!](https://github.com/nahberry/calabar-toolkit)  
 
 &nbsp;
 &nbsp;
