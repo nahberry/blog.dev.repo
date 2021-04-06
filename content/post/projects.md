@@ -41,7 +41,7 @@ cover:
 ### Calabar Toolkit
 > Information gathering toolkit written in Python  
 > This is in it's beginning stages  
-> Check it out on **[GitHub!](https://github.com/nahberry/calabar-toolkit)  
+> Check it out on **[GitHub!](https://github.com/nahberry/calabar-toolkit)**  
 
 &nbsp;
 &nbsp;
